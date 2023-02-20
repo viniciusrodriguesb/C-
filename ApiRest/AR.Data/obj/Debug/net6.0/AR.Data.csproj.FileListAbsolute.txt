@@ -1,0 +1,15 @@
+C:\Projects_C#\ApiRest\AR.Data\bin\Debug\net6.0\AR.Data.deps.json
+C:\Projects_C#\ApiRest\AR.Data\bin\Debug\net6.0\AR.Data.dll
+C:\Projects_C#\ApiRest\AR.Data\bin\Debug\net6.0\AR.Data.pdb
+C:\Projects_C#\ApiRest\AR.Data\bin\Debug\net6.0\AR.Domain.dll
+C:\Projects_C#\ApiRest\AR.Data\bin\Debug\net6.0\AR.Domain.pdb
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\AR.Data.csproj.AssemblyReference.cache
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\AR.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\AR.Data.AssemblyInfoInputs.cache
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\AR.Data.AssemblyInfo.cs
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\AR.Data.csproj.CoreCompileInputs.cache
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\AR.Data.csproj.CopyComplete
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\AR.Data.dll
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\refint\AR.Data.dll
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\AR.Data.pdb
+C:\Projects_C#\ApiRest\AR.Data\obj\Debug\net6.0\ref\AR.Data.dll

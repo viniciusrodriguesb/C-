@@ -1,0 +1,15 @@
+C:\Projects_C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.exe
+C:\Projects_C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.deps.json
+C:\Projects_C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.runtimeconfig.json
+C:\Projects_C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.dll
+C:\Projects_C#\Aulas\Aulas\bin\Debug\net6.0\Aulas.pdb
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.csproj.AssemblyReference.cache
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfoInputs.cache
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfo.cs
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.dll
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\refint\Aulas.dll
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.pdb
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\Aulas.genruntimeconfig.cache
+C:\Projects_C#\Aulas\Aulas\obj\Debug\net6.0\ref\Aulas.dll

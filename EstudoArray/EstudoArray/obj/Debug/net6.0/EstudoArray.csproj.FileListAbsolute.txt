@@ -1,0 +1,15 @@
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\EstudoArray.csproj.AssemblyReference.cache
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\EstudoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\EstudoArray.AssemblyInfoInputs.cache
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\EstudoArray.AssemblyInfo.cs
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\EstudoArray.csproj.CoreCompileInputs.cache
+C:\Projects_C#\EstudoArray\EstudoArray\bin\Debug\net6.0\EstudoArray.exe
+C:\Projects_C#\EstudoArray\EstudoArray\bin\Debug\net6.0\EstudoArray.deps.json
+C:\Projects_C#\EstudoArray\EstudoArray\bin\Debug\net6.0\EstudoArray.runtimeconfig.json
+C:\Projects_C#\EstudoArray\EstudoArray\bin\Debug\net6.0\EstudoArray.dll
+C:\Projects_C#\EstudoArray\EstudoArray\bin\Debug\net6.0\EstudoArray.pdb
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\EstudoArray.dll
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\refint\EstudoArray.dll
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\EstudoArray.pdb
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\EstudoArray.genruntimeconfig.cache
+C:\Projects_C#\EstudoArray\EstudoArray\obj\Debug\net6.0\ref\EstudoArray.dll

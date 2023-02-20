@@ -1,0 +1,12 @@
+C:\Projects_C#\ApiRest\AR.Domain\bin\Debug\net6.0\AR.Domain.deps.json
+C:\Projects_C#\ApiRest\AR.Domain\bin\Debug\net6.0\AR.Domain.dll
+C:\Projects_C#\ApiRest\AR.Domain\bin\Debug\net6.0\AR.Domain.pdb
+C:\Projects_C#\ApiRest\AR.Domain\obj\Debug\net6.0\AR.Domain.csproj.AssemblyReference.cache
+C:\Projects_C#\ApiRest\AR.Domain\obj\Debug\net6.0\AR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\ApiRest\AR.Domain\obj\Debug\net6.0\AR.Domain.AssemblyInfoInputs.cache
+C:\Projects_C#\ApiRest\AR.Domain\obj\Debug\net6.0\AR.Domain.AssemblyInfo.cs
+C:\Projects_C#\ApiRest\AR.Domain\obj\Debug\net6.0\AR.Domain.csproj.CoreCompileInputs.cache
+C:\Projects_C#\ApiRest\AR.Domain\obj\Debug\net6.0\AR.Domain.dll
+C:\Projects_C#\ApiRest\AR.Domain\obj\Debug\net6.0\refint\AR.Domain.dll
+C:\Projects_C#\ApiRest\AR.Domain\obj\Debug\net6.0\AR.Domain.pdb
+C:\Projects_C#\ApiRest\AR.Domain\obj\Debug\net6.0\ref\AR.Domain.dll
