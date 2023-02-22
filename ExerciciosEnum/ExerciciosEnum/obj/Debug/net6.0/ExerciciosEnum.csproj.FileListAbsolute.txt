@@ -1,0 +1,15 @@
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\bin\Debug\net6.0\ExerciciosEnum.exe
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\bin\Debug\net6.0\ExerciciosEnum.deps.json
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\bin\Debug\net6.0\ExerciciosEnum.runtimeconfig.json
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\bin\Debug\net6.0\ExerciciosEnum.dll
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\bin\Debug\net6.0\ExerciciosEnum.pdb
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\ExerciciosEnum.csproj.AssemblyReference.cache
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\ExerciciosEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\ExerciciosEnum.AssemblyInfoInputs.cache
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\ExerciciosEnum.AssemblyInfo.cs
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\ExerciciosEnum.csproj.CoreCompileInputs.cache
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\ExerciciosEnum.dll
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\refint\ExerciciosEnum.dll
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\ExerciciosEnum.pdb
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\ExerciciosEnum.genruntimeconfig.cache
+C:\Projects_C#\ExerciciosEnum\ExerciciosEnum\obj\Debug\net6.0\ref\ExerciciosEnum.dll
